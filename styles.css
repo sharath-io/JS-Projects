@@ -44,39 +44,3 @@ nav{
     justify-content: center;
     align-items: center;
 }
-
-.colors-section {
-    margin-top: 50px;
-}
-
-.colors-section > span{
-    border:1px solid none;
-    padding: 10px;
-    margin-right: 40px;
-    color: white;
-    font-size: 24px;
-    border-radius: 3px;
-    height:100px;
-    width:100px;
-    display: inline-block;
-}
-
-.colors-section > span:hover{
-    cursor: pointer;
-    
-}
-#red{
-    background-color: red;
-}
-
-#green{
-    background-color: green;
-}
-
-#blue{
-    background-color: blue;
-}
-
-#yellow{
-    background-color: yellow;
-}
