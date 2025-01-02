@@ -14,7 +14,11 @@
 * preserve log on refresh of the page
 
 
-
+### Project4 - Guess The Number
+* update the code
+* add functions for each scenario
+* add more edge cases
+* Add a modal for sucessful guess and a failure guess
 
 
 #### New Project Ideas
