@@ -38,9 +38,14 @@ nav{
 }
 
 .project-section{
-    margin: 100px;
+    margin: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+
+.project-section > *{
+    margin-top: 20px;
 }

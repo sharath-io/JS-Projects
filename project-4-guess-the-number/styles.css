@@ -1,0 +1,17 @@
+.guess-project button{
+    background-color: rgb(202, 202, 234);
+    font-size:20px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.guess-project input{
+    width: 170px;
+    padding: 5px;
+}
+
+.guess-project p{
+    font-size: 19px;
+    font-weight: 800;
+}
