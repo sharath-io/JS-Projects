@@ -18,7 +18,17 @@
 * update the code
 * add functions for each scenario
 * add more edge cases
-* Add a modal for sucessful guess and a failure guess
+
+### Project5 - Age Calculator
+* add another input where user can enter present date or
+  to the date which the age should be calculated 
+(here we took present date by default - give user an option with a checkbox)
+
+
+### Project6 - Toggle Password
+* add another input field for password 
+   match two input fields for same password
+* add strong password checks
 
 
 #### New Project Ideas
