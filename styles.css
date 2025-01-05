@@ -21,15 +21,17 @@ nav{
 .projects{
     display:flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     margin:100px 20px;
 }
 
 .project-link{
-    background-color: black;
-    color: white;
+    background-color: rgb(236, 204, 66);
     font-size:24px;
-    width: 300px;
+    width: 400px;
     padding:20px;
+    margin-top: 30px;
+    border: none
 }
 
 .project-link:hover{
